@@ -31,4 +31,10 @@
 ![temperatures.png](images%2Ftemperatures.png)
 
 
+### 8. [ChatBot](07.%20Chatbot.ipynb)
 
+![openai api call.png](images%2Fopenai%20api%20call.png)
+
+![open api workflow.png](images%2Fopen%20api%20workflow.png)
+
+![adding to context.png](images%2Fadding%20to%20context.png)
