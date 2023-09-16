@@ -38,3 +38,8 @@
 ![open api workflow.png](images%2Fopen%20api%20workflow.png)
 
 ![adding to context.png](images%2Fadding%20to%20context.png)
+
+![system messgae_chatbot.png](images%2Fsystem%20messgae_chatbot.png)
+
+### 9. Summary
+![overall_summary.png](images%2Foverall_summary.png)
