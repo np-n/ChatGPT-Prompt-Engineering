@@ -1,6 +1,7 @@
 ## ChatGPT Prompt Engineering
 
 ### 1. [ChatGPT Prompt Engineering for Developers - Deeplearning.ai](deeplearning.ai)
+### 2. [freecodecamp](freecodecamp%2FREADME.md)
 
 
 
