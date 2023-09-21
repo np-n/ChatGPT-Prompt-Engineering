@@ -1,14 +1,15 @@
 ## ChatGPT Prompt Engineering
+<hr>
 
 ### 1. [ChatGPT Prompt Engineering for Developers - Deeplearning.ai](deeplearning.ai)
-### 2. [freecodecamp](freecodecamp%2FREADME.md)
+### 2. [Master ChatGPT and LLM Responses - freecodecamp](freecodecamp%2FREADME.md)
 
 
 
 
 
 
-### n. [Cheat Sheets](Cheatsheets)
+### [Cheat Sheets](Cheatsheets)
 - [kdnuggets](Cheatsheets%2Fchatgpt%20cheatsheet%20kdnuggets.webp)
 - [reddit](Cheatsheets%2Fchatgpt%20cheatsheet%20reddit.webp)
 - [Finxter](Cheatsheets%2FFinxter_Prompting_OpenAI.pdf)

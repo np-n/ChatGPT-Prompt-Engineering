@@ -37,3 +37,28 @@
 ### 7. Using GPT
 ![16. introduction to gpt.png](images%2F16.%20introduction%20to%20gpt.png)
 ![17. tokenizer.png](images%2F17.%20tokenizer.png)
+
+
+### 8. Best Prompting practices
+![18. writing_best_prompts.png](images%2F18.%20writing_best_prompts.png)
+
+
+### 9. Zero shot and One shot Prompts
+![zero_shot_vs_few_shot_prompting.png](images%2Fzero_shot_vs_few_shot_prompting.png)
+- Zero shot Prompting
+![19. zero_shot_prompting_example.png](images%2F19.%20zero_shot_prompting_example.png)
+- before few shot prompting
+![20. before_few_shot_prompting.png](images%2F20.%20before_few_shot_prompting.png)
+- few shot prompting
+![21. few_shot_prompting.png](images%2F21.%20few_shot_prompting.png)
+- After few shot prompting
+![22. after_few_shot_prompting.png](images%2F22.%20after_few_shot_prompting.png)
+
+### 10. AI Hallucination
+![ai hallucination.png](images%2Fai%20hallucination.png)
+- Example
+![ai hallucination example.png](images%2Fai%20hallucination%20example.png)
+
+
+### 11. Vector/text Embeddings
+![text embeddings.png](images%2Ftext%20embeddings.png)
